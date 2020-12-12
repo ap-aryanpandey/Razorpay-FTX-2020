@@ -23,13 +23,15 @@ Personal finance for individuals and Business solutions for MSMEs.
 ## Resources 
 * ### Account Aggregator Framework:
  
- <img src="images/aa.jfif" width="300">
+ <img src="images/aa.jfif" width="600">
  The Account aggregator framework helps multiple finacial institutions to share data beteween themselves without compramising security thus commodotising user's finacial data.
 
 * ### RazorPay Invoice API:
+* ### Razorpay Route API
+* ### Razorpay Items API
 
 
-## Illustrations
+## Consumer 
 
 
 # Team
