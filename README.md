@@ -1,7 +1,7 @@
 <p align="center">
   <img width="300"  src="images/logo.png">
   <h1 align= "center">Finity</h1>
-   <h2 align= "center">SMALL LOANS AT SCALE MADE EASY</h2>
+   <h2 align= "center">Trade Made Easy.</h2>
 
 
 
@@ -89,5 +89,5 @@ Operational
 * ### Aryan Pandey 
      Next Tech Lab
    [<img src="images/linkedin.png">](https://www.linkedin.com/in/aryan-pandey/)     [<img src="images/github.png">](https://github.com/ap-aryanpandey)
-* ### Sathya Krishansamy
-   [<img src="images/linkedin.png">](https://www.linkedin.com/in/sathya-krishnasamy-3b369a20/) 
+* ### Arhan Chaudhary
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/arhan-choudhury-941527120/) [<img src="images/github.png">](https://github.com/Arhan13)
