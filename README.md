@@ -30,8 +30,27 @@ Personal finance for individuals and Business solutions for MSMEs.
 * ### Razorpay Route API
 * ### Razorpay Items API
 
+## We aim to bridge the disconnect between the credit industry and the MSME retail industry. 
+### We introduce the concept of Fractional Credit Remittance in India.
+* ### Remittance takes place through every sales transaction of the trader.
+* ### The remittance amount is decided based on the sales profile of each trader. The sales data is procured with the help of Account Aggregator Framework.
+###  Thus ensuring higher recovery rates as compared to conventional approches, thus helping the MSME Credit industry mature further.
 
-## Consumer Side 
+## Aspects of our platform:
+* ### Individual consumer side
+* ### MSME Business side
+
+## Individual consumer side:
+* ### Personal Finance services services (using Account Aggregator Framework)
+* ### Essential items/groceries procurement. (Thus connecting the partner business with the user.)
+* ### Expense Tracker services (using Account Aggregator Framework - making the whole process completely automated) 
+* ### Future Prospects: Customised porfolio suggestions, automated monthly mandates, Personalised Offers
+
+## MSME Business side:
+* ### Zero Collateral / Flow Based Lending services - using Account Aggregator Framework
+* ### Automated Fractional Credit Remittance - using Razorpay Route API
+* ### Business Finance Metrics
+* ### Inventory and invoice Management
 
 
 
