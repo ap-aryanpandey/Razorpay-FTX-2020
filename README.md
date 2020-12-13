@@ -55,7 +55,6 @@ Personal finance for individuals and Business solutions for MSMEs.
 
 
 # Team
-<img src="images/FlexiTestPort.png">
 
  * ### Devansh Swarup 
    [<img src="images/linkedin.png">](https://in.linkedin.com/in/devansh-swarup-85436554)     [<img src="images/github.png">](https://github.com/devansh2712)
@@ -65,5 +64,7 @@ Personal finance for individuals and Business solutions for MSMEs.
    [<img src="images/linkedin.png">](https://www.linkedin.com/in/shobit-puri-3b30bb18b/)     [<img src="images/github.png">](https://github.com/ScarletSpidey)
 * ### Aryan Pandey 
    [<img src="images/linkedin.png">](https://www.linkedin.com/in/aryan-pandey/)     [<img src="images/github.png">](https://github.com/ap-aryanpandey)
+* ### Arhan Chaudhury
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/arhan-choudhury-941527120/)     [<img src="images/github.png">](https://github.com/Arhan13)
 
 
